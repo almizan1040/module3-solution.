@@ -12,10 +12,9 @@ div >.navbar-brand {
 }
 /*menu bar hide start*/
 @media only screen and (min-width: 768px) {
-	#coursera-nav{
-		visibility: hidden;
+	.navbar-nav{
+		display: none;
 	}
-}
 /*menu bar hide end*/
 ul li{
 	font-size: 20px;
