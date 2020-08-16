@@ -15,6 +15,7 @@ div >.navbar-brand {
 	.navbar-nav{
 		display: none;
 	}
+}
 /*menu bar hide end*/
 ul li{
 	font-size: 20px;
